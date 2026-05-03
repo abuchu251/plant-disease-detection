@@ -94,6 +94,8 @@ git clone https://github.com/abuchu251/plant-disease-detection.git
 cd "Plant Disease Detection"
 ```
 
+Use the cloned repository as the project base, and create feature branches for changes.
+
 ### 2. Backend Setup
 
 ```bash
