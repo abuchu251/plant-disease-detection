@@ -514,6 +514,7 @@ This project is developed by AASTU 5th year students section E — Digital Maver
 
 - **Issues**: [GitHub Issues](https://github.com/abuchu251/plant-disease-detection/issues)
 - **Repository**: [GitHub Repository](https://github.com/abuchu251/plant-disease-detection)
+- **Team**: [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ## 📄 License
 
