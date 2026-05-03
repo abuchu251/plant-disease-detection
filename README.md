@@ -381,12 +381,12 @@ npm run test:coverage
 ### Development Workflow
 
 1. Fork the repository
-2. Create feature branch: `git checkout -b feature/amazing-feature`
+2. Create a feature branch from `main`: `git checkout -b feature/amazing-feature`
 3. Make changes and add tests
 4. Ensure all tests pass: `npm test && pytest`
 5. Commit with conventional commits: `git commit -m "feat: add amazing feature"`
 6. Push to branch: `git push origin feature/amazing-feature`
-7. Create Pull Request
+7. Create a Pull Request and request review from the team
 
 ### Code Standards
 
