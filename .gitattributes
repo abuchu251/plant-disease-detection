@@ -1,0 +1,11 @@
+# Ensure consistent line endings
+* text=auto
+
+# Treat notebook files as binary
+*.ipynb binary
+
+# Node files
+package-lock.json text
+
+# Prevent CRLF changes for shell scripts
+*.sh text eol=lf
