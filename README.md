@@ -2,6 +2,8 @@
 
 A modern, production-ready plant disease detection application that uses deep learning to identify plant diseases from leaf images. Built with FastAPI backend and React TypeScript frontend, this system can detect diseases across multiple plant species including Apple, Corn, Grape, Potato, Tomato, Mango, Citrus, and Rice. This repository is maintained by AASTU 5th year students section E — Digital Mavericks.
 
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full team list and contributions.
+
 ## ✨ Features
 
 - **🎯 AI-Powered Detection**: Deep learning model trained on 30+ plant disease classes
