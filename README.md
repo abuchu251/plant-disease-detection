@@ -1,6 +1,8 @@
 # 🌱 Plant Disease Detection System
 
-A modern, production-ready plant disease detection application that uses deep learning to identify plant diseases from leaf images. Built with FastAPI backend and React TypeScript frontend, this system can detect diseases across multiple plant species including Apple, Corn, Grape, Potato, Tomato, Mango, Citrus, and Rice.
+A modern, production-ready plant disease detection application that uses deep learning to identify plant diseases from leaf images. Built with FastAPI backend and React TypeScript frontend, this system can detect diseases across multiple plant species including Apple, Corn, Grape, Potato, Tomato, Mango, Citrus, and Rice. This repository is maintained by AASTU 5th year students section E — Digital Mavericks.
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full team list and contributions.
 
 ## ✨ Features
 
@@ -93,6 +95,8 @@ The model can detect **30+ diseases** across multiple plant species:
 git clone https://github.com/abuchu251/plant-disease-detection.git
 cd "Plant Disease Detection"
 ```
+
+Use the cloned repository as the project base, and create feature branches for changes.
 
 ### 2. Backend Setup
 
@@ -377,12 +381,12 @@ npm run test:coverage
 ### Development Workflow
 
 1. Fork the repository
-2. Create feature branch: `git checkout -b feature/amazing-feature`
+2. Create a feature branch from `main`: `git checkout -b feature/amazing-feature`
 3. Make changes and add tests
 4. Ensure all tests pass: `npm test && pytest`
 5. Commit with conventional commits: `git commit -m "feat: add amazing feature"`
 6. Push to branch: `git push origin feature/amazing-feature`
-7. Create Pull Request
+7. Create a Pull Request and request review from the team
 
 ### Code Standards
 
@@ -512,8 +516,11 @@ This project is developed by AASTU 5th year students section E — Digital Maver
 
 ## 📞 Support
 
+If you need help or want to suggest changes, please open an issue in the repository below.
+
 - **Issues**: [GitHub Issues](https://github.com/abuchu251/plant-disease-detection/issues)
 - **Repository**: [GitHub Repository](https://github.com/abuchu251/plant-disease-detection)
+- **Team**: [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ## 📄 License
 
