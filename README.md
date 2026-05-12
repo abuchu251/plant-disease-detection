@@ -527,4 +527,4 @@ If you need help or want to suggest changes, please open an issue in the reposit
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Made with ❤️ for plant health monitoring by AASTU 5th year students section E — Digital Mavericks**
+
