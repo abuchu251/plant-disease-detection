@@ -71,7 +71,7 @@ The model can detect **30+ diseases** across multiple plant species:
 - **React Dropzone** for file uploads
 - **Lucide Icons** for UI icons
 
-### Backend
+### Backend 
 
 - **FastAPI** for high-performance API
 - **Pydantic** for data validation
@@ -80,7 +80,7 @@ The model can detect **30+ diseases** across multiple plant species:
 - **Pillow** for image processing
 - **Multi-model support** (TensorFlow, PyTorch, ONNX)
 
-## 🚀 Quick Start
+## 🚀 Quick Start for the project
 
 ### Prerequisites
 
