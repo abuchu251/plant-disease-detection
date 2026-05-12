@@ -4,7 +4,7 @@ A modern, production-ready plant disease detection application that uses deep le
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full team list and contributions.
 
-## ✨ Features
+## ✨ Features of our project
 
 - **🎯 AI-Powered Detection**: Deep learning model trained on 30+ plant disease classes
 - **🖼️ Image Upload**: Drag-and-drop interface for easy image submission
@@ -59,7 +59,7 @@ The model can detect **30+ diseases** across multiple plant species:
 
 - Mango Anthracnose, Citrus Canker, Rice Blast
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks Used
 
 ### Frontend
 
